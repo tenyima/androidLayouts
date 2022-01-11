@@ -1,8 +1,8 @@
-<h1>Main Title</>
-<h2>Section Titile
-<h3>Sub Titile</>
-<h4>Almost bold</>
+<h1>Main Title</h1>
+<h2>Section Titile</h2>
+<h3>Sub Titile</h3>
+<h4>Almost bold</h4>
 
 This is the regular text font style and the size. 
 
-<button>Submit something</>
+<button>Submit something</button>
